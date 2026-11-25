@@ -59,3 +59,10 @@ flutter run
 ## Objetivo acadêmico
 
 Projeto desenvolvido como atividade prática da disciplina de Tecnologia de Construção de Software I, utilizando Flutter para implementar operações CRUD.
+
+
+## Capturas de tela
+
+As capturas de tela da aplicação estão disponíveis no documento:
+
+[Visualizar prints da interface (PDF)](documentacao/prints-interface.pdf)
